@@ -7,9 +7,9 @@ x = int(2) # variable x will have a value of 2 useable for mathematical applicat
 y = int(2.854) # variable y will have a value of 2 by constructing the float literal into intinger literal useable for mathematical operations.
 z = int("3") # variable z will have a value of 3 by constructing the string literal into intinger literal useable for mathematical operations.
 f = x + y + z
-#print(y)
-#print(z)
-#print(f) # the output will be 7
+print(y)
+print(z)
+print(f) # the output will be 7
 
 #Example to explain float() constructor
 j = float(1) # variable j will have a value of 1.0 by constructing the intinger literal into float literal.
